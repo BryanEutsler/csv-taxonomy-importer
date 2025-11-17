@@ -1,0 +1,10 @@
+name,slug,description,parent
+Technology,technology,All technology-related content,
+Web Development,web-development,Website and web app development,Technology
+Mobile Apps,mobile-apps,Mobile application development,Technology
+Design,design,Design and creative content,
+UI/UX,ui-ux,User interface and experience design,Design
+Graphic Design,graphic-design,Visual design and graphics,Design
+Business,business,Business and entrepreneurship,
+Marketing,marketing,Marketing strategies and tips,Business
+SEO,seo,Search engine optimization,Marketing
